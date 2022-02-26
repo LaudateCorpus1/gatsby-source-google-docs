@@ -30,7 +30,7 @@
     "gatsby-transformer-remark": "^3.0.0",
     "gatsby-transformer-sharp": "^3.0.0",
     "mdx-embed": "^0.0.19",
-    "prismjs": "^1.23.0",
+    "prismjs": "^1.27.0",
     "react": "link:../node_modules/react",
     "react-dom": "link:../node_modules/react-dom",
     "react-icons": "^4.2.0",
