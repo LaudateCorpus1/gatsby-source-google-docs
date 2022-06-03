@@ -17,7 +17,7 @@
     "gatsby-plugin-eslint": "^3.0.0",
     "gatsby-plugin-image": "^1.0.0",
     "gatsby-plugin-layout": "^2.0.0",
-    "gatsby-plugin-mdx": "^2.0.0",
+    "gatsby-plugin-mdx": "^2.14.1",
     "gatsby-plugin-mdx-embed": "^0.0.19",
     "gatsby-plugin-react-svg": "^3.0.0",
     "gatsby-plugin-sharp": "^3.0.0",
