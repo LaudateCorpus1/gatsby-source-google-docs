@@ -16,7 +16,7 @@
     "gatsby-remark-gifs": "^1.0.0",
     "gatsby-remark-images": "^3.3.31",
     "gatsby-remark-unwrap-images": "^1.0.2",
-    "gatsby-transformer-remark": "^2.8.36",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.5.16",
     "react": "link:../../node_modules/react",
     "react-dom": "link:../../node_modules/react-dom"
